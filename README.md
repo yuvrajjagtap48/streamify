@@ -3,6 +3,9 @@
 A full-stack real-time communication platform built to impress, scale, and solve real-world interaction challenges.
 
 
+
+
+
 🔥 Core Features
 💬 Real-time Messaging – Instant chat updates with Typing Indicators, Emojis, and Message Reactions.
 
@@ -25,6 +28,10 @@ A full-stack real-time communication platform built to impress, scale, and solve
 💡 Built for Growth – Modular codebase, scalable backend, and clean UI/UX designed for real-world usage.
 
 
+
+
+
+
 🛠 Technologies Used
 Frontend: React, TailwindCSS, Zustand, TanStack Query
 
@@ -38,8 +45,15 @@ Design: daisyUI, react-hot-toast, Zustand, Theme-based architecture (32+ UI Them
 
 
 
+
+
+
 📈 Why it stands out?
 This project isn’t just a chat app — it’s a fully scalable, real-world application simulating systems used by top tech companies. Designed with attention to performance, UX, and security, it’s perfect for showcasing deep understanding of full-stack development, WebRTC, and stateful UI flows.
+
+
+
+
 
 
 📊 Performance & Scalability Insights
@@ -53,6 +67,8 @@ This project isn’t just a chat app — it’s a fully scalable, real-world app
 ⏱️ Real-time latency as low as <100ms for messaging and <500ms for video signaling.
 
 🌐 Global CDN-backed media delivery ensuring high availability (99.9% uptime).
+
+
 
 
 
